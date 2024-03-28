@@ -26,10 +26,10 @@ const NavBar = (props: any) => {
   return (
     <div style={style1}>
       <LogoConTextos
-        text1="chipi"
-        text2="chipi"
-        text3="chapa"
-        text4="chapa"
+        text1={text1}
+        text2={text2}
+        text3={text3}
+        text4={text4}
       ></LogoConTextos>
       {/* <Logo></Logo> */}
       <div style={style2}>
